@@ -14,3 +14,7 @@ If you find any errors in the book, please report them using the [issues](https:
 ```
 
 Feel free to attach screenshots to illustrate the errors and help the community better understand the location or nature of the error.
+
+## Do NOT forget to report errors as a mail to the authors
+
+[Click here](mailto:slp3edbugs@gmail.com) to report the errors as a mail to the authors.
