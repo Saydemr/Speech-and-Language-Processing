@@ -5,7 +5,7 @@ The repository is to **share the information about the errors in the book with t
 
 ## How to contribute
 
-If you find any errors in the book, please report them using the [issues](https://github.com/Saydemr/Speech-and-Language-Processing/issues). Please use the following template to report the errors:
+If you find any errors in the book, please report them by using the [issues](https://github.com/Saydemr/Speech-and-Language-Processing/issues) or by opening a pull request. Please use the following template to report the errors:
 
 ```markdown
 ## Chapter: [Chapter Number] [Chapter Name]
