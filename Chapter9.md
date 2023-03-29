@@ -1,5 +1,11 @@
 # Chapter 9 - RNNs and LSTMs
 
+- **Page 190, Equation 9.7**:
+
+    `i` used both as a word and as an index. Overloading is unnecessary and confusing.
+
+    ![image](images/ch9-eq97.png)
+
 - **Page 208, Figure 9.23**:
 
     y<sub>i</sub> is computed from h<sub>i-1</sub> and h<sub>i</sub> is computed using y<sub>i</sub> which is not consistent with the previous figures and formulas. 
