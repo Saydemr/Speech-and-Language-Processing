@@ -1,4 +1,4 @@
-# Transfer Learning Through Fine-Tuning
+# Chapter 11 - Transfer Learning Through Fine-Tuning
 
 
 - **Page 234, Equation 11.9**:
@@ -8,6 +8,14 @@
 - **Page 235, Figure 11.6**:
 
     Arrows from negative log loss to softmax layer should be reversed to comply with other figures. It is also more intuitive to think that loss is calculated from the output of the softmax layer.
+
+
+- **Page 237, Explanation Sequence Classification**:
+
+    Missing comma after `y<sub>cls</sub>`.
+
+    ![image](images/ycls-missingcomma-11.3.1.png)
+
 
 - **Page 238, Figure 11.8**:
 
