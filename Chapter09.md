@@ -24,6 +24,6 @@
 
     ![image](images/ch9-figure923.png)
 
-    In Figure 9.22, $y_i$ is computed from $h_i$ and in Equation 9.35, $h_i$ is computed from y_{i-1}.
+    In Figure 9.22, $y_i$ is computed from $h_i$ and in Equation 9.35, $h_i$ is computed from $y_{i-1}$.
 
     ![image](images/ch9-figure922.png)
